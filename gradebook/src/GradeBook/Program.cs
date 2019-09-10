@@ -9,9 +9,6 @@ namespace GradeBook
         {
 
             var book = new Book("JP Grade Book");
-            // book.AddGrade(89.1);
-            // book.AddGrade(90.5);
-            // book.AddGrade(77.5);
 
             while (true)
             {
